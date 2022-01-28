@@ -21,3 +21,7 @@ After 101 epochs, here are the results obtains on the same vector of values :
 One random vector on trained data :
 
 ![random](./random_img.png)
+
+## Dataset
+
+[Dataset link on kaggle](www.kaggle.com/dataset/5807af0fb625318fa859b01fa4303595bb72b934ef4e24128dacd2f6d9f41aea)
